@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @kayoisdumb, the DUMB of course standing for deep underground military base
-- 👀 I’m interested in ... unix scripting 
-- 🌱 I’m currently learning ... bash
-- 💞️ I’m looking to collaborate on ... nothing
+- 👋 Hi, I’m @Kayo4life, you're local idiot.
+- 👀 I’m interested in ... All things that can benefit me.
+- 🌱 I’m currently learning ... Bash, ZSH HTML, CSS, JavaScript, and a very tiny amount of Python. I'm looking to learn C and Rust, maybe C++ if the Linux kernel
+- 💞️ I’m looking to collaborate on ... anything involving giving the MSI GS66 Stealth 10UG-219 US Model more support in anything Linux.
 - 📫 How to reach me ... please don't
-
-<!---
-kayoisdumb/kayoisdumb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Did you catch the typo? Hope it adds to the joke probably not)
