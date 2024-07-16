@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning ... Bash, ZSH HTML, CSS, JavaScript, and a very tiny amount of Python. I'm looking to learn C and Rust, maybe C++ if the Linux kernel
 - 💞️ I’m looking to collaborate on ... anything involving giving the MSI GS66 Stealth 10UG-219 US Model more support in anything Linux.
 - 📫 How to reach me ... please don't
-- Did you catch the typo? Hope it adds to the joke probably not)
+- Did you catch the typo? I hope it adds to the joke (probably not)
