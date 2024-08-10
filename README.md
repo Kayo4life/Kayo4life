@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kayo4life, you're local idiot.
 - 👀 I’m interested in ... All things that can benefit me.
-- 🌱 I’m currently learning ... Bash, ZSH, HTML, CSS, JavaScript, and a very tiny amount of Python. I'm looking to learn Assembly, C, Lua, and Rust.
+- 🌱 I’m currently learning ... Bash,HTML, CSS, JavaScript, C, and a very tiny amount of Python. I'm looking to learn Assembly, Lua, and Rust.
 - 💞️ I’m looking to collaborate on ... anything involving giving the MSI GS66 Stealth 10UG-219 US Model more support in anything Linux.
 - 📫 How to reach me ... please don't
 - Did you catch the typo? I hope it adds to the joke (probably not)
