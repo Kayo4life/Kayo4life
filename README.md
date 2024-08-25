@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kayo4life, you're local idiot.
-- 👀 I’m interested in ... All things that can benefit me.
-- 🛠️ I can use ... Bash, ZSH, HTML, CSS, JavaScript, and a very tiny amount of Python.
-- 🌱 I'm learning C and Haskell. I'm looking to learn Assembly, Lua, and Rust.
-- 💞️ I’m looking to collaborate on ... anything involving giving the MSI GS66 Stealth 10UG-219 US Model more support in anything Linux.
-- 📫 How to reach me ... please don't
-- Did you catch the typo? I hope it adds to the joke (probably not)
+- 👀 I’m interested in ... Collaborating with friends on their projects, and doing projects that boost my quality of life.
+- 🛠️ I can use ... Powershell, Bash, ZSH, HTML, CSS, JavaScript, a very tiny amount of Python, Lua and Make.
+- 🌱 I'm learning C and Haskell. I'm looking to learn Assembly, and Rust.
+- 💞️ I’m looking to collaborate on ... anything involving giving the MSI GS66 Stealth 10UG-219 US Model more support in Linux, and my friend's projects
+- 📫 How to reach me ... [Shoot me an email at kayo@kayo4.life](mailto:kayo@kayo4.life) 
+- ⌨️ Did you catch the typo? I hope it adds to the joke, but probably not.
